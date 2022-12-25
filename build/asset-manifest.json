@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/~ksimon12/static/css/main.b933577c.chunk.css",
+    "main.js": "/~ksimon12/static/js/main.6a6f807f.chunk.js",
+    "main.js.map": "/~ksimon12/static/js/main.6a6f807f.chunk.js.map",
+    "runtime-main.js": "/~ksimon12/static/js/runtime-main.d67bd0d0.js",
+    "runtime-main.js.map": "/~ksimon12/static/js/runtime-main.d67bd0d0.js.map",
+    "static/js/2.1b42c95e.chunk.js": "/~ksimon12/static/js/2.1b42c95e.chunk.js",
+    "static/js/2.1b42c95e.chunk.js.map": "/~ksimon12/static/js/2.1b42c95e.chunk.js.map",
+    "index.html": "/~ksimon12/index.html",
+    "precache-manifest.6205e52182c344c51f54d5721b413ec8.js": "/~ksimon12/precache-manifest.6205e52182c344c51f54d5721b413ec8.js",
+    "service-worker.js": "/~ksimon12/service-worker.js",
+    "static/css/main.b933577c.chunk.css.map": "/~ksimon12/static/css/main.b933577c.chunk.css.map",
+    "static/js/2.1b42c95e.chunk.js.LICENSE.txt": "/~ksimon12/static/js/2.1b42c95e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d67bd0d0.js",
+    "static/js/2.1b42c95e.chunk.js",
+    "static/css/main.b933577c.chunk.css",
+    "static/js/main.6a6f807f.chunk.js"
+  ]
+}
